@@ -74,5 +74,14 @@ The demonstration video showcases:
 
 ---
 
+## 🧠 Notes
 
+- Designed for embedded systems learning and demonstration  
+- Can be extended with features like automatic gate barriers or LCD integration
 
+---
+
+## 👤 Author
+
+**Tasneem ELsir**  
+This project was a great approach to understanding microcontroller programming, hardware interfacing, and real-time system simulation using STM32 boards.
