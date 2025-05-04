@@ -57,7 +57,7 @@ In the simulation version of the system, **push buttons were used instead of phy
   - Updates the 7-segment displays
 - This simulation allows easy debugging and visualization of the logic without requiring full hardware setup.
 
-> Proteus configuration screenshots or files are included in the `diagram/` folder.
+> Proteus configuration screenshots or files are included in the `Proteus/` folder.
 
 
 ---
