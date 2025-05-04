@@ -5,6 +5,7 @@
 This project simulates a smart car parking system using an STM32 development board Nucleo 64.It utilizes sensors, LEDs, and 7-segment displays to monitor and indicate the availability of parking spaces.
 
 ---
+> ![image](https://github.com/user-attachments/assets/71671126-50f5-49a3-902b-f93d9fc84a62)
 
 ## 🔧 System Features
 
@@ -57,7 +58,6 @@ In the simulation version of the system, **push buttons were used instead of phy
 - This simulation allows easy debugging and visualization of the logic without requiring full hardware setup.
 
 > Proteus configuration screenshots or files are included in the `diagram/` folder.
-> ![image](https://github.com/user-attachments/assets/71671126-50f5-49a3-902b-f93d9fc84a62)
 
 
 ---
@@ -66,8 +66,7 @@ In the simulation version of the system, **push buttons were used instead of phy
 
 The demonstration video showcases:
 
-- Introduction to the system
-- Entry and exit simulation using push buttons
+- Entry and exit simulation using sensors
 - 7-segment updates and LED indication
 - FULL condition display when parking is unavailable
 
